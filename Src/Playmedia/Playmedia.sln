@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playmedia", "Playmedia\Playmedia.csproj", "{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0D7FE78-AC54-46D7-8C9B-870D6E409FA6}
+	EndGlobalSection
+EndGlobal

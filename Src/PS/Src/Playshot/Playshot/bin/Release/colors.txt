@@ -1,0 +1,8 @@
+// background color
+#222222
+// overlay color
+rgba(0, 0, 0, 0.9)
+// previous next buttons hover color
+rgba(0,0,0,0.8)
+// title hover background color
+black
