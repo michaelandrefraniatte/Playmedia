@@ -1,35 +1,22 @@
 ﻿using System;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-using System.Runtime.InteropServices;
-using System.IO;
 using System.Diagnostics;
-using System.Management;
 using System.Security.Cryptography;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using System.Threading;
 using System.Drawing;
 using System.ComponentModel;
 using EO.WebBrowser;
-using System.Media;
-using System.Globalization;
-using Google.Cloud.Firestore;
-using Google.Cloud.Firestore.V1;
-using NetFwTypeLib;
 using CSCore.Streams;
 using CSCore.SoundIn;
 using CSCore;
-using CSCore.Codecs;
 using CSCore.DSP;
-using CSCore.SoundOut;
-using CSCore.Streams.Effects;
-using CSCore.CoreAudioAPI;
 using WinformsVisualization.Visualization;
 using System.Drawing.Drawing2D;
 using System.Drawing.Text;
-using CSCore.Codecs.WAV;
+using System.IO;
+
 namespace Playmedia
 {
     public partial class Form1 : Form
