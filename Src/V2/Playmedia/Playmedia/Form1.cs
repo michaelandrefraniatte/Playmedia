@@ -48,7 +48,7 @@ namespace Playmedia
         public static WebView2 webView21 = new WebView2();
         public async void Form1_Shown(object sender, EventArgs e)
         {
-            CoreWebView2EnvironmentOptions options = new CoreWebView2EnvironmentOptions("--disable-web-security", "--allow-file-access-from-files", "--allow-file-access");
+            CoreWebView2EnvironmentOptions options = new CoreWebView2EnvironmentOptions("--disable-web-security --allow-file-access-from-files --allow-file-access", "en");
             CoreWebView2Environment environment = await CoreWebView2Environment.CreateAsync(null, null, options);
             await webView21.EnsureCoreWebView2Async(environment);
             webView21.CoreWebView2.ContainsFullScreenElementChanged += (obj, args) =>

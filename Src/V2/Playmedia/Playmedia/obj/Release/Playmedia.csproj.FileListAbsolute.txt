@@ -113,3 +113,16 @@ C:\Users\micha\Documents\Tool\Playmedia\Src\Playmedia\Playmedia\obj\Release\Play
 C:\Users\micha\Documents\Tool\Playmedia\Src\Playmedia\Playmedia\obj\Release\Playmedia.csproj.CopyComplete
 C:\Users\micha\Documents\Tool\Playmedia\Src\Playmedia\Playmedia\obj\Release\Playmedia.exe
 C:\Users\micha\Documents\Tool\Playmedia\Src\Playmedia\Playmedia\obj\Release\Playmedia.pdb
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\bin\Release\Playmedia.exe.config
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\bin\Release\Playmedia.exe
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\bin\Release\Playmedia.pdb
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\bin\Release\Newtonsoft.Json.xml
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.Form1.resources
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.Properties.Resources.resources
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.csproj.CopyComplete
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.exe
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.pdb
