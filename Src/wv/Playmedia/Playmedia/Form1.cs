@@ -59,6 +59,7 @@ namespace Playmedia
             webView21.CoreWebView2.Settings.AreDevToolsEnabled = false;
             webView21.CoreWebView2.AddHostObjectToScript("bridge", new Bridge());
             webView21.NavigationCompleted += WebView21_NavigationCompleted;
+            webView21.KeyDown += WebView21_KeyDown;
             string folderpath = "file:///" + System.Reflection.Assembly.GetEntryAssembly().Location.Replace(@"file:\", "").Replace(Process.GetCurrentProcess().ProcessName + ".exe", "").Replace(@"\", "/").Replace(@"//", "");
             string path = @"playmedia.html";
             string readText = File.ReadAllText(path);
@@ -66,6 +67,32 @@ namespace Playmedia
             webView21.Dock = DockStyle.Fill;
             this.Controls.Add(webView21);
             GetAudioByteArray();
+        }
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            OnKeyDown(e.KeyData);
+        }
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            OnKeyDown(keyData);
+            return true;
+        }
+        private void WebView21_KeyDown(object sender, KeyEventArgs e)
+        {
+            OnKeyDown(e.KeyData);
+        }
+        private void OnKeyDown(Keys keyData)
+        {
+            if (keyData == Keys.F1)
+            {
+                const string message = "• Author: Michaël André Franiatte.\n\r\n\r• Contact: michael.franiatte@gmail.com.\n\r\n\r• Publisher: https://github.com/michaelandrefraniatte.\n\r\n\r• Copyrights: All rights reserved, no permissions granted.\n\r\n\r• License: Not open source, not free of charge to use.";
+                const string caption = "About";
+                MessageBox.Show(message, caption, MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            if (keyData == Keys.Escape)
+            {
+                this.Close();
+            }
         }
         private bool fullScreen = false;
         [DefaultValue(false)]

@@ -126,3 +126,15 @@ C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj
 C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.csproj.CopyComplete
 C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.exe
 C:\Users\micha\Documents\github\PlaymediaOfficial\Src\V2\Playmedia\Playmedia\obj\Release\Playmedia.pdb
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\bin\Release\Playmedia.exe.config
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\bin\Release\Playmedia.exe
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\bin\Release\Playmedia.pdb
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\bin\Release\Newtonsoft.Json.xml
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\obj\Release\Playmedia.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\obj\Release\Playmedia.Form1.resources
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\obj\Release\Playmedia.Properties.Resources.resources
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\obj\Release\Playmedia.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\obj\Release\Playmedia.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\obj\Release\Playmedia.csproj.CopyComplete
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\obj\Release\Playmedia.exe
+C:\Users\micha\Documents\github\PlaymediaOfficial\Src\wv\Playmedia\Playmedia\obj\Release\Playmedia.pdb
