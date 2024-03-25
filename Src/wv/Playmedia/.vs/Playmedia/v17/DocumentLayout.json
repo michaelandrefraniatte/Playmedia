@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\github\\PlaymediaOfficial\\Src\\wv\\Playmedia\\",
+  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\github\\Playmedia\\Src\\wv\\Playmedia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}|Playmedia\\Playmedia.csproj|c:\\users\\micha\\documents\\github\\playmediaofficial\\src\\wv\\playmedia\\playmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}|Playmedia\\Playmedia.csproj|c:\\users\\micha\\documents\\github\\playmedia\\src\\wv\\playmedia\\playmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}|Playmedia\\Playmedia.csproj|solutionrelative:playmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}|Playmedia\\Playmedia.csproj|C:\\Users\\micha\\Documents\\github\\PlaymediaOfficial\\Src\\wv\\Playmedia\\playmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}|Playmedia\\Playmedia.csproj|C:\\Users\\micha\\Documents\\github\\Playmedia\\Src\\wv\\Playmedia\\playmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DAF94F6E-748D-4AA0-9D67-76785ECDFA15}|Playmedia\\Playmedia.csproj|solutionrelative:playmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\PlaymediaOfficial\\Src\\wv\\Playmedia\\Playmedia\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\Playmedia\\Src\\wv\\Playmedia\\Playmedia\\Form1.cs",
               "RelativeDocumentMoniker": "Playmedia\\Form1.cs",
-              "ToolTip": "C:\\Users\\micha\\Documents\\github\\PlaymediaOfficial\\Src\\wv\\Playmedia\\Playmedia\\Form1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\github\\Playmedia\\Src\\wv\\Playmedia\\Playmedia\\Form1.cs",
               "RelativeToolTip": "Playmedia\\Form1.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAowEUAAAAJAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowE4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-02T15:14:18.396Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\PlaymediaOfficial\\Src\\wv\\Playmedia\\Playmedia\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\Playmedia\\Src\\wv\\Playmedia\\Playmedia\\Form1.cs",
               "RelativeDocumentMoniker": "Playmedia\\Form1.cs",
-              "ToolTip": "C:\\Users\\micha\\Documents\\github\\PlaymediaOfficial\\Src\\wv\\Playmedia\\Playmedia\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\micha\\Documents\\github\\Playmedia\\Src\\wv\\Playmedia\\Playmedia\\Form1.cs [Design]",
               "RelativeToolTip": "Playmedia\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-02T15:14:19.099Z",
